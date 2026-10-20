@@ -31,4 +31,4 @@ To help with that I found 2 main resources.
 
 I'm still in the middle of learning guitar anatomy, but that is for the next journal entry :)
 
-Time tracked: 1 hr
+**Time tracked: 1 hr**
