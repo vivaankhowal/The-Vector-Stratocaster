@@ -19,7 +19,7 @@ This project is basically about recreating that guitar as close as possible and 
 
 This video by wittworks was an incredible insight for how to build a guitar, and showing the tools and techniques to make that process easier. Through this video, I got some resources and learned a few things: Guitars take a lot of craftsmanship to create, and require a lot of specific tools and gauges to create yourself. Every single curve, spacing and angle on a guitar matters and needs to be replicated almost perfectly for a nice sound. 
 
-[![the worst way to build a guitar](https://youtube.com)](https://www.youtube.com/watch?v=yPJ0_0UJPFU
+Video: https://www.youtube.com/watch?v=yPJ0_0UJPFU
 
 To help with that I found 2 main resources.
 
