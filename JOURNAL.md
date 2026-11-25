@@ -95,3 +95,29 @@ Didn't research any tube amps yet, will probably focus on that in the next journ
 
 **Time tracked: 1 hr**
 
+## 11/23/26 - Guitar CAD is finished!
+
+After a long CAD session, I finally finished the CAD for the guitar!
+
+Originally I found some super detailed part drawings of all the dimensions in a Fender Strat, but then I later realized that I don't need a full CAD model of the guitar, I just need the svg files for the surface of the body since I will be using a CNC router to cut the body and the neck. 
+
+Here is the link for the dimensions: https://www.electricherald.com/fender-stratocaster-templates/#google_vignette
+
+<img width="1194" height="788" alt="image" src="https://github.com/user-attachments/assets/7f7d95d5-1f39-43a0-949c-99c305286937" />
+
+I found some links of Fender Strat SVG files which I will be using, and for visualization purposes I found a Fender Strat model on Printables and am using that as a reference just so I can see where all the off-the-shelf parts will be placed and how, plus I can compare it to the size of the amp which I will be designing in CAD. 
+
+Next up is designing the Amp in CAD.
+
+<img width="221" height="607" alt="Screenshot 2026-11-25 at 12 34 08 AM" src="https://github.com/user-attachments/assets/1fb2096d-4d1d-4501-9b95-530573704ccb" />
+
+SVG Files Link: https://scarlettguitars.com/products/stratocaster-svg-kit
+
+Printables Model Link: https://www.printables.com/model/489337-stratocaster-electic-guitar-model-files-steponshap
+
+**Time tracked: 1 hr 50 mins**
+
+
+
+
+
